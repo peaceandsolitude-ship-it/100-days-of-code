@@ -1,7 +1,6 @@
-Write a program to find the product of odd digits of a number.
-  #include <stdio.h>
-  int main()
-  {
+#include <stdio.h>
+int main()
+{
 int pro=1,n,i;
 printf("Enter the numbers:");
 scanf("%d",&n);
