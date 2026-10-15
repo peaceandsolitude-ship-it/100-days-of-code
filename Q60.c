@@ -3,7 +3,7 @@ int main()
 {
 int a[100],n,pos,neg,zero;
 printf("Enter the range of array");
-scanf("%d",n);
+scanf("%d",&n);
 printf("Enter the elements");
 for(i=0;i<n;i++)
 {
